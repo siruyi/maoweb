@@ -1,3 +1,5 @@
+version 20120330
+
 cloudfoundry发布步骤：
 1、建立webstatic工程，删除下面文件夹等，创建自己的文件目录。也可以从githup上获取。
 2、2012-1-3之前的nodejs版本是 version 0.4.12.
